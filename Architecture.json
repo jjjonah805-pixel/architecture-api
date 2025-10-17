@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Fallingwater",
+    "architect": "Frank Lloyd Wright",
+    "location": "Pennsylvania, USA",
+    "year": 1939,
+    "style": "Organic Architecture",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fallingwater3.jpg/500px-Fallingwater3.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Villa Savoye",
+    "architect": "Le Corbusier",
+    "location": "Poissy, France",
+    "year": 1931,
+    "style": "International Style",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/VillaSavoye.jpg/330px-VillaSavoye.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sydney Opera House",
+    "architect": "Jørn Utzon",
+    "location": "Sydney, Australia",
+    "year": 1973,
+    "style": "Expressionist",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sydney_Australia._%2821339175489%29.jpg/500px-Sydney_Australia._%2821339175489%29.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Burj Khalifa",
+    "architect": "Adrian Smith",
+    "location": "Dubai, UAE",
+    "year": 2010,
+    "style": "Neo-futurism",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burj_Khalifa.jpg/500px-Burj_Khalifa.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Taj Mahal",
+    "architect": "Ustad Ahmad Lahori",
+    "location": "Agra, India",
+    "year": 1648,
+    "style": "Mughal Architecture",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/500px-Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Guggenheim Museum Bilbao",
+    "architect": "Frank Gehry",
+    "location": "Bilbao, Spain",
+    "year": 1997,
+    "style": "Deconstructivism",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Museo_Guggenheim%2C_Bilbao_%2831273245344%29.jpg/500px-Museo_Guggenheim%2C_Bilbao_%2831273245344%29.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Colosseum",
+    "architect": "Ancient Roman Engineers",
+    "location": "Rome, Italy",
+    "year": 80,
+    "style": "Ancient Roman Architecture",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/500px-Colosseo_2020.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Lotus Temple",
+    "architect": "Fariborz Sahba",
+    "location": "New Delhi, India",
+    "year": 1986,
+    "style": "Expressionist",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/LotusDelhi.jpg/500px-LotusDelhi.jpg"
+  },
+  {
+    "id": 9,
+    "name": "The Shard",
+    "architect": "Renzo Piano",
+    "location": "London, UK",
+    "year": 2012,
+    "style": "Neo-futurism",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/The_Shard_at_sunset_2017_%28cropped%29.jpg/500px-The_Shard_at_sunset_2017_%28cropped%29.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sagrada Família",
+    "architect": "Antoni Gaudí",
+    "location": "Barcelona, Spain",
+    "year": 1882,
+    "style": "Modernisme / Gothic Revival",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%CE%A3%CE%B1%CE%B3%CF%81%CE%AC%CE%B4%CE%B1_%CE%A6%CE%B1%CE%BC%CE%AF%CE%BB%CE%B9%CE%B1_2941_%28cropped%29.jpg/500px-%CE%A3%CE%B1%CE%B3%CF%81%CE%AC%CE%B4%CE%B1_%CE%A6%CE%B1%CE%BC%CE%AF%CE%BB%CE%B9%CE%B1_2941_%28cropped%29.jpg"
+  }
+]
+
